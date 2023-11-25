@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sairaj</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sairaj49](https://github.com/sairaj49)
 
